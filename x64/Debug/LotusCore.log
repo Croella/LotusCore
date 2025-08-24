@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\store\source\repos\LotusCore\main.cpp(336,9): error C3861: 'ImGui_ImplWin32_WndProcHandler': identifier not found
